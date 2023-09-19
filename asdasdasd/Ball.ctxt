@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=void\ setBrand(java.lang.String)
+comment0.text=public\ Ball(){\r\n\ \ \ \ \ \ \ brand\ \=\ "Nike";\r\n\ \ \ \ \ \ \ diameter\ \=\ 12.0;\r\n\ \ \ \ \ \ \ material\ \=\ "plastic";\r\n\ \ \ \ }\r\n\ \ \ \r\n\ \ \ public\ Ball(String\ b,\ double\ d,\ String\ m){\r\n\ \ \ \ \ \ \ \ brand\ \=\ b;\r\n\ \ \ \ \ \ \ \ diameter\ \=\ d;\r\n\ \ \ \ \ \ \ \ material\ \=\ m;\r\n\ \ \ }\r\n
+comment1.params=
+comment1.target=java.lang.String\ getBrand()
+comment2.params=
+comment2.target=java.lang.String\ getMaterial()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

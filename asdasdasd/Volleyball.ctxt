@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getSpikability()
+comment0.text=\r\n\ \ \ \ public\ Volleyball(){\r\n\ \ \ \ \ \ \ \ super("Wilson",9.0,"cardboard");\r\n\ \ \ \ \ \ \ \ spikability\ \=\ 10;\r\n\ \ \ \ }\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2
