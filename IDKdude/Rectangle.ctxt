@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rectangle()
+comment1.params=s\ xPos\ yPos\ l\ w
+comment1.target=Rectangle(java.lang.String,\ int,\ int,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcArea()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

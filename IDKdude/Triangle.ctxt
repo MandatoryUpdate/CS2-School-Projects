@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Triangle()
+comment1.params=s\ xPos\ yPos\ b\ w
+comment1.target=Triangle(java.lang.String,\ int,\ int,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcArea()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

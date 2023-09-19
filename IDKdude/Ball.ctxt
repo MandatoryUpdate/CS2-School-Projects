@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ball()
+comment1.params=b\ d\ m
+comment1.target=Ball(java.lang.String,\ double,\ java.lang.String)
+comment2.params=b
+comment2.target=void\ setBrand(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getBrand()
+comment4.params=
+comment4.target=java.lang.String\ getMaterial()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
