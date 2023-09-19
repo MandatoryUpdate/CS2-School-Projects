@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=numOne\ numTwo
+comment1.target=boolean\ canDivide(int,\ int)
+comment2.params=num
+comment2.target=int\ returnSum(int)
+comment3.params=numOne\ numTwo
+comment3.target=int\ countRange(int,\ int)
+comment4.params=nums
+comment4.target=int\ giveMin(int[])
+comment5.params=nums
+comment5.target=int\ returnSum(int[])
+comment6.params=nums
+comment6.target=double\ returnAverage(int[])
+comment7.params=word1\ word2\ word3
+comment7.target=java.lang.String\ returnVowels(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment8.params=word1
+comment8.target=java.lang.String\ returnConsonants(java.lang.String)
+comment9.params=word1
+comment9.target=java.lang.String\ returnReverse(java.lang.String)
+numComments=10
