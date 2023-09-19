@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=num1\ num2\ num3\ num4
+comment1.target=java.lang.String\ checkDouble(double,\ double,\ double,\ double)
+numComments=2
