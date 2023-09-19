@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cat()
+comment1.params=h\ w\ a\ n
+comment1.target=Cat(double,\ double,\ int,\ java.lang.String)
+comment2.params=w
+comment2.target=void\ setWeight(double)
+comment3.params=a
+comment3.target=void\ setAge(int)
+comment4.params=
+comment4.target=double\ getWeight()
+comment5.params=
+comment5.target=int\ getAge()
+comment6.params=
+comment6.target=void\ feed()
+comment7.params=food
+comment7.target=void\ feed(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
