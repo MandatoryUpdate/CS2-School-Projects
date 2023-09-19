@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=letter\ num
+comment1.target=java.lang.String\ triangleOne(java.lang.String,\ int)
+comment2.params=letter\ num
+comment2.target=java.lang.String\ triangleThree(java.lang.String,\ int)
+comment3.params=word
+comment3.target=java.lang.String\ boxWord(java.lang.String)
+comment4.params=num\ letter
+comment4.target=java.lang.String\ triangleFive(int,\ java.lang.String)
+numComments=5
